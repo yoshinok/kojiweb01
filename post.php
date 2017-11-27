@@ -2,7 +2,7 @@
 <head><title>PHP TEST</title></head>
 <body>
 
-<form method="POST" action="./posty.php">
+<form method="POST" action="./post.php">
 <input type="text" name="text1">
 <input type="submit" name="btn1" value="text1">
 </form>
