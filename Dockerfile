@@ -1,3 +1,4 @@
 FROM php:apache
-COPY posty.php /var/www/html
+COPY post.php /var/www/html
+COPY index.html /var/www/html
 EXPOSE 80
